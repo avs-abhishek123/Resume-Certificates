@@ -23,5 +23,5 @@ These are my NGO certifications.
 -----------------
 A | B
 ------------ | -------------
-<img src="https://github.com/avs-abhishek123/Resume-Certificates/blob/master/NGO%20Certification/ngo2016.jpg" width="100%" height="50%">  | <img src="https://github.com/avs-abhishek123/Resume-Certificates/blob/master/NGO%20Certification/ngo2017.jpg" width="100%" height="50%"> 
-<img src="https://github.com/avs-abhishek123/Resume-Certificates/blob/master/NGO%20Certification/ngo2018.jpg" width="100%" height="50%"> | <img src="https://github.com/avs-abhishek123/Resume-Certificates/blob/master/NGO%20Certification/ngo2019.jpg" width="100%" height="50%"> 
+<img src="https://github.com/avs-abhishek123/Resume-Certificates/blob/master/NGO%20Certification/ngo2016.jpg" width="100%" height="20%">  | <img src="https://github.com/avs-abhishek123/Resume-Certificates/blob/master/NGO%20Certification/ngo2017.jpg" width="100%" height="20%"> 
+<img src="https://github.com/avs-abhishek123/Resume-Certificates/blob/master/NGO%20Certification/ngo2018.jpg" width="100%" height="20%"> | <img src="https://github.com/avs-abhishek123/Resume-Certificates/blob/master/NGO%20Certification/ngo2019.jpg" width="100%" height="20%"> 
